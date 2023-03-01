@@ -187,9 +187,9 @@ local function BeMyFrenExtension()
 	-- Returns [true, downloadUrl] if an update is available (downloadUrl auto opens in browser for user); otherwise returns [false, downloadUrl]
 	-- Remove this function if you choose not to implement a version update check for your extension
 	function self.checkForUpdates()
-		local versionCheckUrl = "https://api.github.com/repos/UTDZac/ImAttached-IronmonExtension/releases/latest"
+		local versionCheckUrl = "https://api.github.com/repos/Mixone-FinallyHere/BeMyFren-IronmonExtension/releases/latest"
 		local versionResponsePattern = '"tag_name":%s+"%w+(%d+%.%d+)"' -- matches "1.0" in "tag_name": "v1.0"
-		local downloadUrl = "https://github.com/UTDZac/ImAttached-IronmonExtension/releases/latest"
+		local downloadUrl = "https://github.com/Mixone-FinallyHere/BeMyFren-IronmonExtension/releases/latest"
 
 		local isUpdateAvailable = Utils.checkForVersionUpdate(versionCheckUrl, self.version, versionResponsePattern, nil)
 		return isUpdateAvailable, downloadUrl
