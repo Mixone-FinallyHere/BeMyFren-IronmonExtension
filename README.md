@@ -1,6 +1,6 @@
 
 
-## I'm Attached! Gen 3 Ironmon-Tracker Extension by UTDZac
+## I'm Attached! Gen 3 Ironmon-Tracker Extension by Mixone
 ![image](https://user-images.githubusercontent.com/4258818/219571043-92810ed9-c8b6-425b-83ad-2e62dacb751c.png)
 
 ## Requirements:
