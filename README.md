@@ -1,7 +1,8 @@
 
 
 ## I'm Attached! Gen 3 Ironmon-Tracker Extension by Mixone
-![image](https://user-images.githubusercontent.com/4258818/219571043-92810ed9-c8b6-425b-83ad-2e62dacb751c.png)
+This Extension directly builds on the I'm Attached extension this is forked from.
+![image](https://raw.githubusercontent.com/Mixone-FinallyHere/BeMyFren-IronmonExtension/main/Functionality.gif)
 
 ## Requirements:
 - [Ironmon-Tracker v7.3.0](https://github.com/besteon/Ironmon-Tracker) or higher
