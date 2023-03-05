@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/4258818/219571043-92810ed9-c8b6-425b-83ad-2e62dacb751c.png)
 
 ## Requirements:
-- [Ironmon-Tracker v7.3.0](https://github.com/besteon/Ironmon-Tracker) or higher
+- [Ironmon-Tracker v7.4.0](https://github.com/besteon/Ironmon-Tracker) or higher
 
 ## Install:
 1) Download the [latest release](https://github.com/UTDZac/ImAttached-IronmonExtension/releases/latest) of this extension from the GitHub's Releases page
