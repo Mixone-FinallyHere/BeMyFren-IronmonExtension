@@ -6,7 +6,7 @@ This Extension directly builds on the I'm Attached extension this is forked from
 ![image](https://raw.githubusercontent.com/Mixone-FinallyHere/BeMyFren-IronmonExtension/main/Functionality.gif)
 
 ## Requirements:
-- [Ironmon-Tracker v7.3.0](https://github.com/besteon/Ironmon-Tracker) or higher
+- [Ironmon-Tracker v7.4.0](https://github.com/besteon/Ironmon-Tracker) or higher
 
 ## Install:
 1) Download the [latest release](https://github.com/Mixone-FinallyHere/BeMyFren-IronmonExtension/releases/latest) of this extension from the GitHub's Releases page
